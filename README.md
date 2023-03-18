@@ -1,2 +1,2 @@
 # Fuzzy-BWM
-This code can run Fuzzy BWM and determine the optimal weight of each criterion.
+This helps setting up a generic code that can run Fuzzy BWM and determine the optimal weight of each criterion.
